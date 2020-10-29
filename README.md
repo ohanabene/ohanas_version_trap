@@ -16,3 +16,5 @@ To reproduce the animations, use PrintForAnime() to get the output to be fed to 
 You will have to select one or the other in main.cpp before compiling and running it. 
 
 vector.h is just a header that defines vector operations.
+
+Edit the Makefile to point to your own root libs. 
